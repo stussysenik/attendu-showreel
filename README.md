@@ -1,16 +1,3 @@
-# attendu-showreel
+# Attendu Showreel
 
-## example work:
-
-ikea
-![](1.png)
---
-vodafone
-![](2.png)
---
-ABB conference
-![](3.png)
---
-Skoda Auto
-![](4.png)
-
+Personal notes and resources.
